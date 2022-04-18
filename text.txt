@@ -1,1 +1,4 @@
 This is the first line of text for my solo file. 
+
+Text after new branch is created 
+I hope this works
